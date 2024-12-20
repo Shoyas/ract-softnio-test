@@ -7,6 +7,6 @@
 
 # React Project:
 --
-## React, Tailwind CSS, and ES6's Live Link: https://6765297d0c622d2385ecea09--classy-kelpie-7f461f.netlify.app/
+## React, Tailwind CSS, and ES6's Live Link: https://classy-kelpie-7f461f.netlify.app
 ## React's GitHub Repository Link: https://github.com/Shoyas/ract-softnio-test
 
