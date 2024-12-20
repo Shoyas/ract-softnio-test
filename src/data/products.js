@@ -11,7 +11,7 @@ export const products = [
       colors: [
         {
           id: 101,
-          color: "purple",
+          color: "Purple",
           image: "/images/Purple.jpg",
           default: true,
         },
